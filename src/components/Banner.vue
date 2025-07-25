@@ -1,7 +1,7 @@
 <template>
     <header class="banner">
         <div class="apresetacao">
-            <img src="../assets/img/logo.svg" alt="logo" class="logo" />
+            <img src="../../public/imagens/logo.svg" alt="logo" class="logo" />
             <p class="cabecalho-lg frase-cabecalho">
                 <span class="texto-verde">Um baquete de ideias para</span> despertar o chef que há em você!
             </p>
@@ -9,7 +9,7 @@
                 Explore novas receitas todos os dias com os ingredientes que estão ao seu alcance!
             </p>
         </div>
-        <img src="../assets/img/foto-banner.png"
+        <img src="../../public/imagens/foto-banner.png"
             alt="Foto de uma mulher cozinhado com uma bacia de vidro nas mãos. Ela está sorrindo e está sorrindo e está apoiando um celular entre seu rosto e ombro."
             class="foto-banner">
     </header>
